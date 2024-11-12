@@ -9,6 +9,6 @@ entries:
     name: springboot
     type: application
     urls:
-    - https://notBene.github.io/dailymonitoring-helmcharts/springboot-0.1.0.tgz
+    - https://notBene.github.io/dailymonitoring-helmcharts/dailymonitoring-0.1.0.tgz
     version: 0.1.0
 generated: "2024-11-08T13:51:24.0809098+01:00"
