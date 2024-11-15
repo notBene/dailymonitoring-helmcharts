@@ -3,12 +3,12 @@ entries:
   dailymonitoring:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2024-11-08T13:51:24.0821265+01:00"
+    created: "2024-11-15T09:20:28.1057101+01:00"
     description: A Helm chart for Kubernetes
-    digest: 1ec8fdb39d73f25eb2f0d43bdf87de4a29a28f6ab056ef78e2d1f4c3694d9674
+    digest: 759aa1badb65025fb78a3d3dab7cf329b3ac6797488f107373dba2648f2e10f2
     name: dailymonitoring
     type: application
     urls:
-    - https://notBene.github.io/dailymonitoring-helmcharts/dailymonitoring-0.1.0.tgz
+    - dailymonitoring-0.1.0.tgz
     version: 0.1.0
-generated: "2024-11-08T13:51:24.0809098+01:00"
+generated: "2024-11-15T09:20:28.1047686+01:00"
